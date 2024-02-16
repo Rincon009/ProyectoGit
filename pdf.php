@@ -1,0 +1,2 @@
+<?
+echo "Prueba PDF";
